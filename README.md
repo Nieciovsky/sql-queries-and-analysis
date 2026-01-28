@@ -1,10 +1,10 @@
 # SQL Basics – Practice Repository
 
 This repository contains basic SQL queries created to practice:
-- SELECT
-- WHERE
-- ORDER BY
-- LIMIT
+- SELECT / FROM / WHERE
+- ORDER BY / GROUP BY
+- UPDATE / INSERT INTO / DELETE
+- and others...
 
 ## Dataset
 Simple `employees` table with sample data.
