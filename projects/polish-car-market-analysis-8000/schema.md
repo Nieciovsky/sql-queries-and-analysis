@@ -18,6 +18,3 @@
 | Type             | TEXT                | Typ nadwozia / kategoria pojazdu
 
 
-<h2> Pobierz skrócony plik .CSV</h2>
-car_data.CSV: [Download](https://github.com/user-attachments/files/24940750/car_data.zip)
-
