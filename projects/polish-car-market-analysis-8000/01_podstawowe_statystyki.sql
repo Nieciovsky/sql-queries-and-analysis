@@ -1,4 +1,3 @@
-
 -- Podstawowe metryki całego zbioru
 SELECT 
     COUNT(*) AS liczba_ogloszen,
