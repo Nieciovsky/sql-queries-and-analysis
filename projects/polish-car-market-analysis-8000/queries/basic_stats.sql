@@ -1,4 +1,4 @@
--- Podstawowe metryki całego zbioru
+-- Basic stats & mertics
 SELECT 
     COUNT(*) AS liczba_ogloszen,
     COUNT(DISTINCT Vehicle_brand) AS unikalne_marki,
