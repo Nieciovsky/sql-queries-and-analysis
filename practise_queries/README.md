@@ -45,12 +45,10 @@ Example structure:
 ```
 📁 sql-basics-practice
 ├─ 📄 README.md
-├─ 📄 dataset.md
-├─ 📄 schema.sql
-└─ 📁 queries
-|   ├─ 📝 query_01.sql
-|   ├─ 📝 query_02.sql
-|   ├─ 📝 query_03.sql
+└─ 📁 practise_queries
+|   ├─ 📄 README.md
+|   ├─ 📄 dataset.md
+|   ├─ 📄 schema.sql
 |   └─ … (other SQL practice files
 |
 └─📁 projects
