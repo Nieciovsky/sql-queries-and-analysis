@@ -6,14 +6,19 @@ It contains exercises, mini-projects, and work with real datasets (including dat
 ## 🔍 Scope
 The repository includes SQL queries covering topics such as:
 
+### ✅ Covered / Practiced
 - `SELECT`, `WHERE`, `ORDER BY`
-- `GROUP BY`, `HAVING`
+- `GROUP BY`
 - aggregate functions (`COUNT`, `AVG`, `SUM`, `MIN`, `MAX`)
+- data filtering and sorting
+- basic analytical use cases (sales, users, vehicles, etc.)
+
+### 🟡 In progress / Planned
 - `JOIN` (INNER, LEFT)
 - subqueries
 - CTE (`WITH`)
-- data filtering and sorting
-- basic analytical use cases (sales, users, vehicles, etc.)
+
+<br>
 
 ## 🗂 Repository Structure
 ```
