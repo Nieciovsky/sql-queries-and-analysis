@@ -20,8 +20,9 @@ Next steps: more complex joins/window functions, PostgreSQL/MySQL differences, f
 │   ├── 📁 polish-car-market-analysis-8000/
 │   │   ├── 📄 README.md
 │   │   ├── 📝 schema.sql
-│   │   ├── 📝 dataset.md
-│   │   └── 📝 queries/
+│   │   ├── 📊 dataset.md
+│   │   └── 📁 queries/
+│   │   └── 📁 results/
 │   └── ... (next projects)
 └── 📁 docs/
     └── 📄 learning-log.md           # key learnings & progress
