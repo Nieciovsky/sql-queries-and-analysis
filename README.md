@@ -16,6 +16,10 @@ Next steps: more complex joins/window functions, PostgreSQL/MySQL differences, f
 📁 sql-practice-portfolio/
 ├── 📄 README.md                     # ← you are here
 ├── 📁 practise_queries/             # simple standalone exercises
+│    ├── 📄 README.md
+│    ├── 📝 schema.sql
+│    ├── 📊 dataset.md
+│    └── 📁 queries/
 ├── 📁 projects/                     # mini-analysis projects with real datasets
 │   ├── 📁 polish-car-market-analysis-8000/
 │   │   ├── 📄 README.md
