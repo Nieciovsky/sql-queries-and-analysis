@@ -1,65 +1,79 @@
-# 📊 SQL PRACTICE
+# SQL Practice Portfolio – Nieciovsky
 
-This repository is created for learning and practicing SQL — from basic queries to more advanced data analysis.  
-It contains exercises, mini-projects, and work with real datasets (including databases from Kaggle).
-
-## 🔍 Scope
-The repository includes SQL queries covering topics such as:
-
-### ✅ Covered / Practiced
-- `SELECT`, `WHERE`, `ORDER BY`
-- `GROUP BY`
-- aggregate functions (`COUNT`, `AVG`, `SUM`, `MIN`, `MAX`)
-- data filtering and sorting
-- basic analytical use cases (sales, users, vehicles, etc.)
-
-### 🟡 In progress / Planned
-- `JOIN` (INNER, LEFT)
-- subqueries
-- CTE (`WITH`)
+<p align="center">
+  <b>Aspiring Junior Data Analyst / QA Engineer</b> • SQL Basics • Data Analysis • Query Writing
+</p>
 
 <br>
 
-## 🗂 Repository Structure
+I'm learning SQL through hands-on exercises and small analysis projects using real datasets (mostly from Kaggle).  
+This repo shows my progress in writing clean, efficient queries and basic data understanding.
+
+Next steps: more complex joins/window functions, PostgreSQL/MySQL differences, first Python + pandas + SQL projects.
+
+## Repository Structure
 ```
-📁 sql-basics-practice
-├─ 📄 README.md
-└─ 📁 practise_queries
-|   ├─ 📄 README.md
-|   ├─ 📄 dataset.md
-|   ├─ 📄 schema.sql
-|   └─ … (other SQL practice files
-|
-└─📁 projects
-   ├─📁 polish-car-market-analysis-8000
-   |  ├─ 📄 README.md
-   |  ├─ 📄 schema.sql
-   |  ├─ 📄 dataset.md
-   |  └─ 📝 queries and results
-   |   
-   ├─📁 (...)
-   └─📁 (...)
+📁 sql-practice-portfolio/
+├── 📄 README.md                     # ← you are here
+├── 📁 practise_queries/             # simple standalone exercises
+├── 📁 projects/                     # mini-analysis projects with real datasets
+│   ├── 📁 polish-car-market-analysis-8000/
+│   │   ├── 📄 README.md
+│   │   ├── 📝 schema.sql
+│   │   ├── 📝 dataset.md
+│   │   └── 📝 queries/
+│   └── ... (next projects)
+└── 📁 docs/
+    └── 📄 learning-log.md           # key learnings & progress
 ```
 
 
-## 📁 Data Sources
-- Public datasets from **Kaggle**
-- Sample databases for analytical and testing purposes
+## Current Projects
 
-## 🎯 Purpose
-- systematic SQL learning
-- practicing query logic and syntax
-- building a portfolio for **Junior QA / Data Analyst** roles
-- working with real-world data instead of artificial examples
+| #  | Project Name                          | Description                                      | Queries | Status     |
+|----|---------------------------------------|--------------------------------------------------|---------|------------|
+| 01 | Polish Car Market Analysis (8000 rows)| Basic statistics, grouping, filtering on car data| ~10     | In progress|
+| 02 | (next project)                        | ...                                              | —       | Planned    |
 
-## 🛠 Tools
-- SQL (MySQL / PostgreSQL – depending on the project)
-- Git & GitHub
-- Visual Studio Code
+## Skills Practiced
 
-## 🚀 Status
-This repository is **actively maintained** — new queries and projects are added regularly.
+- SELECT, WHERE, ORDER BY, LIMIT
+- Aggregate functions (COUNT, SUM, AVG, MIN/MAX)
+- GROUP BY + HAVING
+- Basic JOINs (INNER, LEFT)
+- Subqueries & CTEs (early stage)
+- Reading & understanding database schemas
+- Writing readable queries with comments
+- Using real datasets from Kaggle
+
+## Tools & Technologies
+
+| Category       | Tools used so far              | Level       | Next to learn              |
+|----------------|--------------------------------|-------------|----------------------------|
+| SQL            | MySQL / SQLite                 | Beginner+   | PostgreSQL, window functions|
+| Data sources   | Kaggle CSV datasets            | Comfortable | BigQuery, public APIs      |
+| Editor         | VS Code, DB Browser for SQLite | Daily use   | DBeaver / TablePlus        |
+| Version control| Git & GitHub                   | Improving   | Branching, PRs             |
+
+## Learning Log Highlights
+
+Latest entries from [learning-log.md](./docs/learning-log.md):
+
+- Restructured repo – separate folders for exercises & projects
+- Learned GROUP BY vs HAVING difference (HAVING filters after aggregation)
+- First time analyzing real dataset (8000+ car records) – understood importance of clean schema
+- Started adding schema.sql and dataset description to every project
+
+→ Full learning log: [docs/learning-log.md](./docs/learning-log.md)
 
 ---
 
-📌 Educational / portfolio repository – not production-ready.
+Open to feedback!  
+Feel free to open an issue or contact me.
+
+**Looking for:**  
+Junior Data Analyst / BI / QA roles • internships • code review
+
+**Contact:**  
+GitHub: [@Nieciovsky](https://github.com/Nieciovsky)  
+LinkedIn: [Kamil Nieć](https://www.linkedin.com/in/kamilniec01/)
