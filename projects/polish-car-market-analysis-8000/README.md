@@ -25,6 +25,11 @@ Sample of 200,000+ records from the public dataset ["Poland cars for sale" (Kagg
 
 ---
 
+## 💡 Insights / Results: 
+To see learn more [ClickHere](results/results.md)!
+
+---
+
 ## 🛠 Tools
 - **SQLite**  
 - **DB Browser for SQLite** / [https://dumbmatter.com/csv-sql-live/](https://dumbmatter.com/csv-sql-live/))  
