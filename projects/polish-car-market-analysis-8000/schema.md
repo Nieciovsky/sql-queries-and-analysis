@@ -2,7 +2,7 @@
 
 ## Tabela główna: `car_data`
 
-Źródło: próbka ~8000 rekordów z datasetu ["Poland cars for sale" (Kaggle)](https://www.kaggle.com/datasets/bartoszpieniak/poland-cars-for-sale-dataset?resource=download)
+Źródło: próbka +200tys rekordów z datasetu ["Poland cars for sale" (Kaggle)](https://www.kaggle.com/datasets/bartoszpieniak/poland-cars-for-sale-dataset?resource=download)
 
 
 | Kolumna          | Typ danych (SQLite) | Opis / Przykładowe wartości                          |
