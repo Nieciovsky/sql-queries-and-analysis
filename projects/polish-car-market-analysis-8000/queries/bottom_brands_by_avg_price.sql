@@ -1,4 +1,5 @@
--- TOP 5 LOW PRICE BRAND
+-- Bottom 5 car brands by highest average price
+
 SELECT
     Vehicle_brand,
     ROUND(AVG(price), 2) AS avg_price
