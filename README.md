@@ -35,10 +35,10 @@ Next steps: more complex joins/window functions, PostgreSQL/MySQL differences, f
 
 ## 📌 Current Projects
 
-| #  | Project Name                          | Description                                      | Queries | Status     |
-|----|---------------------------------------|--------------------------------------------------|---------|------------|
-| 01 | Polish Car Market Analysis (8000 rows)| Basic statistics, grouping, filtering on car data| ~10     | In progress|
-| 02 | (next project)                        | ...                                              | —       | Planned    |
+| #  | Project Name                          | Description                                      | Queries | Status     | Redirection to Project |
+|----|---------------------------------------|--------------------------------------------------|---------|------------| ---------------------- |
+| 01 | Polish Car Market Analysis (8000 rows)| Basic statistics, grouping, filtering on car data| ~10     | In progress| [ClickHere](projects/polish-car-market-analysis-8000) |
+| 02 | (next project)                        | ...                                              | —       | Planned    | ...                    |
 
 ## 🎯 Skills Practiced
 
