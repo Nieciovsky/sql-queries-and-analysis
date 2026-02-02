@@ -26,7 +26,7 @@ Sample of 200,000+ records from the public dataset ["Poland cars for sale" (Kagg
 ---
 
 ## 💡 Insights / Results: 
-To see learn more [ClickHere](results/results.md)!
+To learn more [ClickHere](results/results.md)!
 
 ---
 
