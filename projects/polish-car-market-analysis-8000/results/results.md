@@ -1,4 +1,9 @@
+<h1>Scope of Contents</h1>
+
 1. [Top 10 best selling vehicle brands with their average price](#result1)
+2. [Top 5 car brands by highest average price](result2)
+3. [Bottom 5 car brands by highest average price](result3)
+4. [Vehicle brands sorted alphabetically with their average price](result4)
 
 
 
