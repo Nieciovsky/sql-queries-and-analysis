@@ -8,6 +8,7 @@
 4. [Vehicle brands sorted alphabetically with their average price](#result4)
 5. [Average car price by fuel type](#result5)
 6. [Transmission type by average car price](#result6)
+7. [Identification of unusually low-priced listings](#result7)
 
 <br>
 
@@ -28,3 +29,8 @@
 
 <h3 id="result6">📈 Transmission type by average car price: </h3>
 <img width="1388" height="619" alt="Transmission type by average car price" src="https://github.com/user-attachments/assets/e3466840-1cd7-476f-be2e-833d9d99d5e6" />
+
+<h3 id="result7">Identification of unusually low-priced listings (potential data errors or outliers):</h3>
+<img width="1388" height="619" alt="dumbmatter com_csv-sql-live_ (4)" src="https://github.com/user-attachments/assets/f2d2d460-1ec5-478a-a275-0069e69fe746" />
+
+
