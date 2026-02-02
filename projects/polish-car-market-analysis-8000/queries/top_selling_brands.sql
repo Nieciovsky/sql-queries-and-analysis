@@ -1,4 +1,4 @@
--- TOP 10 selling Vehicle brands 
+-- Top 10 best-selling vehicle brands with their average price
 
 SELECT 
     Vehicle_brand,
