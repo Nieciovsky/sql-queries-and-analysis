@@ -20,7 +20,8 @@ Sample of 200,000+ records from the public dataset ["Poland cars for sale" (Kagg
 ## 🔑 Key Queries & Insights
 - Top 10 most popular car brands (count + average price)  
 - Top 5 most expensive / Bottom 5 cheapest brands (average price)  
-- Price analysis by fuel type and transmission  
+- Price analysis by fuel type and transmission
+- Compare average prices of Volvo cars with manual and automatic transmissions
 - Identification of unusually low-priced listings (potential data errors or outliers)  
 
 ---
