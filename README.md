@@ -1,7 +1,7 @@
-# SQL Practice Portfolio – Nieciovsky
+# 📊 SQL Practice Portfolio – Nieciovsky
 
 <p align="center">
-  <b>Aspiring Junior Data Analyst / QA Engineer</b> • SQL Basics • Data Analysis • Query Writing
+  <b>🔹 Aspiring Junior Data Analyst / QA Engineer</b> • SQL Basics • Data Analysis • Query Writing 🔹
 </p>
 
 <br>
@@ -11,7 +11,7 @@ This repo shows my progress in writing clean, efficient queries and basic data u
 
 Next steps: more complex joins/window functions, PostgreSQL/MySQL differences, first Python + pandas + SQL projects.
 
-## Repository Structure
+## 🗂️ Repository Structure
 ```
 📁 sql-practice-portfolio/
 ├── 📄 README.md                     # ← you are here
@@ -33,14 +33,14 @@ Next steps: more complex joins/window functions, PostgreSQL/MySQL differences, f
 ```
 
 
-## Current Projects
+## 📌 Current Projects
 
 | #  | Project Name                          | Description                                      | Queries | Status     |
 |----|---------------------------------------|--------------------------------------------------|---------|------------|
 | 01 | Polish Car Market Analysis (8000 rows)| Basic statistics, grouping, filtering on car data| ~10     | In progress|
 | 02 | (next project)                        | ...                                              | —       | Planned    |
 
-## Skills Practiced
+## 🎯 Skills Practiced
 
 - SELECT, WHERE, ORDER BY, LIMIT
 - Aggregate functions (COUNT, SUM, AVG, MIN/MAX)
@@ -51,7 +51,7 @@ Next steps: more complex joins/window functions, PostgreSQL/MySQL differences, f
 - Writing readable queries with comments
 - Using real datasets from Kaggle
 
-## Tools & Technologies
+## 🛠️ Tools & Technologies
 
 | Category       | Tools used so far              | Level       | Next to learn              |
 |----------------|--------------------------------|-------------|----------------------------|
@@ -60,7 +60,7 @@ Next steps: more complex joins/window functions, PostgreSQL/MySQL differences, f
 | Editor         | VS Code, DB Browser for SQLite | Daily use   | DBeaver / TablePlus        |
 | Version control| Git & GitHub                   | Improving   | Branching, PRs             |
 
-## Learning Log Highlights
+## 📘 Learning Log Highlights
 
 Latest entries from [learning-log.md](./docs/learning-log.md):
 
