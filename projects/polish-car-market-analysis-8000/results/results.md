@@ -36,10 +36,10 @@
 Such records are <b>highly unlikely and may indicate data errors</b>, incomplete listings, or incorrect condition labels.</blockquote>
 <img width="1388" height="619" alt="dumbmatter com_csv-sql-live_ (4)" src="https://github.com/user-attachments/assets/f2d2d460-1ec5-478a-a275-0069e69fe746" />
 
-<h3 id="result8"> Manual vs Automatic – Volvo </h3>
+<h3 id="result8"> 📈 Manual vs Automatic – Volvo </h3>
 
-**Objective:**  Compare average prices of Volvo cars with manual and automatic transmissions.
-**Method:**  Two SQL queries calculating average prices separately for each transmission type.
+**Objective:**  Compare average prices of Volvo cars with manual and automatic transmissions. <br>
+**Method:**  Two SQL queries calculating average prices separately for each transmission type. <br>
 **Results:**  
 - Manual: 35,670.50 PLN  
 - Automatic: 116,603.54 PLN
