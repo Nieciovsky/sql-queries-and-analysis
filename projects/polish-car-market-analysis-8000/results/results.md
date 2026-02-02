@@ -36,7 +36,7 @@
 Such records are <b>highly unlikely and may indicate data errors</b>, incomplete listings, or incorrect condition labels.</blockquote>
 <img width="1388" height="619" alt="dumbmatter com_csv-sql-live_ (4)" src="https://github.com/user-attachments/assets/f2d2d460-1ec5-478a-a275-0069e69fe746" />
 
-## Manual vs Automatic – Volvo
+<h2 id="result8"> Manual vs Automatic – Volvo</h2>
 
 **Objective**  
 Compare average prices of Volvo cars with manual and automatic transmissions.
