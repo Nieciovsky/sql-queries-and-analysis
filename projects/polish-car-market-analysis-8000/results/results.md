@@ -5,7 +5,7 @@
 3. [Bottom 5 car brands by highest average price](result3)
 4. [Vehicle brands sorted alphabetically with their average price](result4)
 
-
+<br>
 
 <h3 id="result1"> Top 10 best-selling vehicle brands with their average price: </h3>
 <img width="1245" height="625" alt="Zrzut ekranu 2026-01-29 211242" src="https://github.com/user-attachments/assets/38add07d-1d27-4577-b404-c3493ef99bdb" />
